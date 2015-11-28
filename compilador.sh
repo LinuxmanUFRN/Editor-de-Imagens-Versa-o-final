@@ -42,7 +42,5 @@ gcc main.c -o main
 echo "Arquivo compilado com sucesso!!!"
 
 
-echo "Executando o Editor de Imagens..."
-
 
 ./main
