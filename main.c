@@ -6,9 +6,6 @@
  *
  *  \file main.c
  *  \brief Arquivo principal
- *
- *  
- *
  */
 
 
