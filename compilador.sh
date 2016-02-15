@@ -41,6 +41,4 @@ pwd
 gcc main.c -o main
 echo "Arquivo compilado com sucesso!!!"
 
-
-
 ./main
